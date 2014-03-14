@@ -1,0 +1,1 @@
+This is a graphing program specific to the .txt file that a specific DAQ outputs
