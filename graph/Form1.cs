@@ -15,7 +15,7 @@ namespace graph
     public partial class Form1 : Form
     {
         const int MAXPOINTS = 10000;
-
+//tst
         double startZoomLocationRatio;
         double endZoomLocationRatio;
 
